@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Breast Density Classification using Deep Learning and SVM
 
 ## Overview
@@ -136,3 +137,6 @@ finetune_resnet50.py
 * ROI segmentation
 * Additional augmentation
 * Full EMBED training
+=======
+# embed-density-classification1
+>>>>>>> 2c00c48ad25c0da140d6d4a910ae804600651d91
