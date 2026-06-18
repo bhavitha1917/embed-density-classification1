@@ -51,4 +51,4 @@ Layers Unfrozen:
 * Layer4
 
 External Accuracy:
-78.0%
+79.20%

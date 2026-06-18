@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+*.png
+*.jpg
+*.jpeg
+*.dcm
+
+*.csv
+*.npy
+
+test/
